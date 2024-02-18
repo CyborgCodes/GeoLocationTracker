@@ -1,6 +1,6 @@
 # JavaScript-wireshark-geolocate
 
-A script to geolocate people on streaming media using **Wireshark/tshark** and the **[geoip-lite](https://github.com/geoip-lite/node-geoip)** module. Tested on Ome tv. 
+A script to geolocate people on streaming media using **Wireshark/tshark** and the **[geoip-lite](https://github.com/geoip-lite/node-geoip)** module. Tested on Ometv. 
 
 I created this script to experiment using wireshark. It's for educational/harmless purposes only. Please don't try to use it to stalk or scare people.
 
